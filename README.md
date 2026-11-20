@@ -1,4 +1,4 @@
-# Elementos de Cálculo Numérico — Primer cuatrimestre de 2011
+# Elementos Cálculo Numérico M — Primer cuatrimestre de 2011
 
 ## Prácticas
 
